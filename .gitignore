@@ -1,0 +1,37 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore other common files and folders
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.local
+.env.*.local
